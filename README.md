@@ -1,2 +1,4 @@
-# classic-algo-demos
-A collection of basic algorithm implementations in Python and C, including fuzzy logic operations, classical cryptography (Caesar Cipher, Diffie-Hellman), and perceptron learning. Ideal for learning and academic demos.
+# Classic Algorithm Demos
+
+This repository contains basic implementations of classical algorithms and concepts including fuzzy logic operations, Caesar cipher variants, Diffie-Hellman key exchange, and perceptron learning in Python and C.  
+Perfect for academic demos, learning, and quick experimentation.
